@@ -99,69 +99,69 @@ function win() {
 
   if (container1 === "O" && container2 === "O" && container3 === "O") {
     alert("O Win");
-    reset();
     numbero++;
+    reset();
   } else if (container4 === "O" && container5 === "O" && container6 === "O") {
     alert("O Win");
-    reset();
     numbero++;
+    reset();
   } else if (container7 === "O" && container8 === "O" && container9 === "O") {
     alert("O Win");
-    reset();
     numbero++;
+    reset();
   } else if (container1 === "O" && container4 === "O" && container7 === "O") {
     alert("O Win");
-    reset();
     numbero++;
+    reset();
   } else if (container2 === "O" && container5 === "O" && container8 === "O") {
     alert("O Win");
-    reset();
     numbero++;
+    reset();
   } else if (container3 === "O" && container6 === "O" && container9 === "O") {
     alert("O Win");
-    reset();
     numbero++;
+    reset();
   } else if (container3 === "O" && container5 === "O" && container7 === "O") {
     alert("O Win");
-    reset();
     numbero++;
+    reset();
   } else if (container1 === "O" && container5 === "O" && container9 === "O") {
     alert("O Win");
-    reset();
     numbero++;
+    reset();
   }
   else if (container1 === "X" && container2 === "X" && container3 === "X") {
     alert("X Win");
-    reset();
     numberx++;
+    reset();
   } else if (container4 === "X" && container5 === "X" && container6 === "X") {
     alert("X Win");
-    reset();
     numberx++;
+    reset();
   } else if (container7 === "X" && container8 === "X" && container9 === "X") {
     alert("X Win");
-    reset();
     numberx++;
+    reset();
   } else if (container1 === "X" && container4 === "X" && container7 === "X") {
     alert("X Win");
-    reset();
     numberx++;
+    reset();
   } else if (container2 === "X" && container5 === "X" && container8 === "X") {
     alert("X Win");
-    reset();
     numberx++;
+    reset();
   } else if (container3 === "X" && container6 === "X" && container9 === "X") {
     alert("X Win");
-    reset();
     numberx++;
+    reset();
   } else if (container3 === "X" && container5 === "X" && container7 === "X") {
     alert("X Win");
-    reset();
     numberx++;
+    reset();
   } else if (container1 === "X" && container5 === "X" && container9 === "X") {
     alert("XWin");
-    reset();
     numberx++;
+    reset();
   }
   // else{
   //   alert("Draw");
